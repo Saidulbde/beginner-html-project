@@ -5,3 +5,20 @@
 body{
     background: #dddd;
 }
+
+#css{
+    background-color: yellowgreen;
+    padding: 150px;
+    text-align: center;
+}
+
+#css.css-content{
+    background-color: aqua;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.css-image
+{
+    
+}
